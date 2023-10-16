@@ -1,6 +1,6 @@
 * Hi there 👋
 
-This is $Y=\lambda f.(\lambda x. f(x x))(\lambda x. f(x x))$
+# This is $Y=\lambda f.(\lambda x. f(x x))(\lambda x. f(x x))$
 
 #+BEGIN_COMMENT
 **akatov/akatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 #+END_COMMENT
 
+#+BEGIN_COMMENT
 #+BEGIN_SRC clojure
 (defn transduce
   "reduce with a transformation of f (xf). If init is not
@@ -35,3 +36,4 @@ Here are some ideas to get you started:
                  (clojure.core.protocols/coll-reduce coll f init))]
        (f ret))))
 #+END_SRC
+#+END_COMMENT
