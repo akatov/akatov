@@ -2,7 +2,7 @@
 
 This is $Y=\lambda f.(\lambda x. f(x x))(\lambda x. f(x x))$
 
-<!--
+#+BEGIN_COMMENT
 **akatov/akatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,31 +15,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+#+END_COMMENT
 
-#+BEGIN_SRC
-(defmodule joes-fav
-  (export all))
-
-(defun universal-server ()
-  (receive
-    ((tuple 'become server-function)
-     (funcall server-function))))
-
-(defun factorial
-  ((0) 1)
-  ((number) (* number (factorial (- number 1)))))
-
-(defun factorial-server ()
-  (receive
-    ((tuple sender number)
-     (! sender (factorial number))
-     (factorial-server))))
-
-(defun run-it ()
-  (let ((pid (spawn #'universal-server/0)))
-    (! pid (tuple 'become #'factorial-server/0))
-    (! pid (tuple (self) 50)))
-  (receive
-    (data data)))
+#+BEGIN_SRC clojure
+(defn transduce
+  "reduce with a transformation of f (xf). If init is not
+  supplied, (f) will be called to produce it. f should be a reducing
+  step function that accepts both 1 and 2 arguments, if it accepts
+  only 2 you can add the arity-1 with 'completing'. Returns the result
+  of applying (the transformed) xf to init and the first item in coll,
+  then applying xf to that result and the 2nd item, etc. If coll
+  contains no items, returns init and f is not called. Note that
+  certain transforms may inject or skip items."  {:added "1.7"}
+  ([xform f coll] (transduce xform f (f) coll))
+  ([xform f init coll]
+     (let [f (xform f)
+           ret (if (instance? clojure.lang.IReduceInit coll)
+                 (.reduce ^clojure.lang.IReduceInit coll f init)
+                 (clojure.core.protocols/coll-reduce coll f init))]
+       (f ret))))
 #+END_SRC
