@@ -2,15 +2,15 @@
 
 ## Open Source Library Maintainer
 
-- [pretty-mode](https://github.com/pretty-mode/pretty-mode)
-- [angular-contenteditable](https://github.com/akatov/angular-contenteditable) ([npm package](https://www.npmjs.com/package/angular-contenteditable))
-- [ember-popout](https://github.com/calderalabs/ember-popout) ([npm package](https://www.npmjs.com/package/ember-popout))
-- [ember-stateful](https://github.com/akatov/ember-stateful) ([npm package](https://www.npmjs.com/package/ember-stateful))
-- [ember-cli-deploy-delete-sourcemaps](https://github.com/tallarium/ember-cli-deploy-delete-sourcemaps) ([npm package](https://www.npmjs.com/package/ember-cli-deploy-delete-sourcemaps))
-- [ember-mutex](https://github.com/akatov/ember-mutex) ([npm package](https://www.npmjs.com/package/ember-mutex))
-- [ember-co](https://github.com/akatov/ember-co) ([npm package](https://www.npmjs.com/package/ember-co))
-- [ember-bowser](https://github.com/akatov/ember-bowser) ([npm package](https://www.npmjs.com/package/ember-bowser))
-- [ember-cli-strophe-shim](https://github.com/akatov/ember-cli-strophe-shim) ([npm package]( https://www.npmjs.com/package/ember-cli-strophe-shim))
+- <img width="16px" height="16px" src="https://cdn.simpleicons.org/gnuemacs/000/fff" alt="GNU Emacs"> [pretty-mode](https://github.com/pretty-mode/pretty-mode)
+- <img width="16px" height="16px" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/angular/000/fff" alt="Angular"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/npm/000/fff" alt="npm"> [angular-contenteditable](https://github.com/akatov/angular-contenteditable) ([npm package](https://www.npmjs.com/package/angular-contenteditable))
+- <img width="16px" height="16px" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/emberdotjs/000/fff" alt="Ember.js"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/npm/000/fff" alt="npm"> [ember-popout](https://github.com/calderalabs/ember-popout) ([npm package](https://www.npmjs.com/package/ember-popout))
+- <img width="16px" height="16px" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/emberdotjs/000/fff" alt="Ember.js"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/npm/000/fff" alt="npm"> [ember-stateful](https://github.com/akatov/ember-stateful) ([npm package](https://www.npmjs.com/package/ember-stateful))
+- <img width="16px" height="16px" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/emberdotjs/000/fff" alt="Ember.js"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/npm/000/fff" alt="npm"> [ember-cli-deploy-delete-sourcemaps](https://github.com/tallarium/ember-cli-deploy-delete-sourcemaps) ([npm package](https://www.npmjs.com/package/ember-cli-deploy-delete-sourcemaps))
+- <img width="16px" height="16px" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/emberdotjs/000/fff" alt="Ember.js"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/npm/000/fff" alt="npm"> [ember-mutex](https://github.com/akatov/ember-mutex) ([npm package](https://www.npmjs.com/package/ember-mutex))
+- <img width="16px" height="16px" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/emberdotjs/000/fff" alt="Ember.js"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/npm/000/fff" alt="npm"> [ember-co](https://github.com/akatov/ember-co) ([npm package](https://www.npmjs.com/package/ember-co))
+- <img width="16px" height="16px" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/emberdotjs/000/fff" alt="Ember.js"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/npm/000/fff" alt="npm"> [ember-bowser](https://github.com/akatov/ember-bowser) ([npm package](https://www.npmjs.com/package/ember-bowser))
+- <img width="16px" height="16px" src="https://cdn.simpleicons.org/javascript/000/fff" alt="JavaScript"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/emberdotjs/000/fff" alt="Ember.js"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/npm/000/fff" alt="npm"> [ember-cli-strophe-shim](https://github.com/akatov/ember-cli-strophe-shim) ([npm package]( https://www.npmjs.com/package/ember-cli-strophe-shim))
 
 ## Other Open Source Contributions
 
