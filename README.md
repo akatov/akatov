@@ -87,3 +87,11 @@
 - <img width="16px" height="16px" src="https://cdn.simpleicons.org/zsh" alt="Zsh"> [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/pulls?q=is%3Apr+author%3Aakatov+is%3Aclosed)
 - <img width="16px" height="16px" src="https://cdn.simpleicons.org/coffeescript" alt="CoffeeScript"> [ttilley/pegcoffee](https://github.com/ttilley/pegcoffee/pulls?q=is%3Apr+author%3Aakatov+is%3Aclosed)
 - <img width="16px" height="16px" src="https://cdn.simpleicons.org/gnuemacs" alt="GNU Emacs"> [dimitri/el-get](https://github.com/dimitri/el-get/pulls?q=is%3Apr+author%3Aakatov+is%3Aclosed)
+
+## Where to find me
+
+<p>
+  <a href="https://github.com/akatov" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://x.com/akatov" target="_blank"><img alt="X" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akatov" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
