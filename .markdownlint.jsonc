@@ -1,0 +1,8 @@
+{
+    // because of HTML
+    "MD033": false,
+    // long lines because of HTML
+    "MD013": {
+        "line_length": 500
+    }
+}
