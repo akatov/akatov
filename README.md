@@ -48,9 +48,11 @@
 - <img width="16px" height="16px" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/emberdotjs" alt="Ember.js"> <img width="16px" height="16px" src="https://cdn.simpleicons.org/npm" alt="npm"> [ember-cli-strophe-shim](https://github.com/akatov/ember-cli-strophe-shim) ([npm package]( https://www.npmjs.com/package/ember-cli-strophe-shim))
 
 
+## Other Open Source Contributions
+
 <details>
 
-<summary>Other Open Source Contributions</summary>
+<summary>List of Contributions</summary>
 
 - <img width="16px" height="16px" src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions"> [ouzi-dev/commit-status-updater](https://github.com/ouzi-dev/commit-status-updater/pulls?q=is%3Apr+author%3Aakatov+is%3Aclosed)
 - <img width="16px" height="16px" src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions"> [maker2413/weblorg-action](https://github.com/maker2413/weblorg-action/pulls?q=is%3Apr+is%3Aclosed+author%3Aakatov)
